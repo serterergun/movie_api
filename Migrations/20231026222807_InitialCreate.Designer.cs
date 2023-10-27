@@ -12,7 +12,7 @@ using imdb_api.Data;
 namespace imdb_api.Migrations
 {
     [DbContext(typeof(ApiDbContext))]
-    [Migration("20231025225807_InitialCreate")]
+    [Migration("20231026222807_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
